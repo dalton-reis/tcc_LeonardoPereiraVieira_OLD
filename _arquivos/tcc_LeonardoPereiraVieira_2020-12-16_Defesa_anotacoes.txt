@@ -1,0 +1,15 @@
+Leonardo_Avaliacao
+Não menciona se é uma letra minúscula/maiúscula.
+9,7
+
+
+Miguel ___
+Gostou, algumas dúvidas ... pediu para ver na loja da Apple.
+
+Aurélio ___
+Ionic -> Flutter
+  refez em uma outra arquitetura
+Texto: resultados, .. trabalhos correlatos .. comparativo, aumentar mais um texto.
+Explicar mais um pouco o processo de aplicar a cloeta de dados.
+Aumentar as conclusões .. correlatos .. mas aumentar um pouco.
+Testar mais usuários, ter um formulário na loja.
