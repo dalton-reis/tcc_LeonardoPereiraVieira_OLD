@@ -1,0 +1,15 @@
+APRESENTAÇÃO (TRANSPARENCIA)
+IMPORTE ou importante ?
+===================
+
+DOSVOX (SEMINCO)
+displaysbraille
+gestos (na TELA)
+deu trabalho, vendo os diagramas
+Quadro 5-Map Pontos braille (CORRELAÇÃO COM BITS)
+consultaSinalToString (portugues e ingles)
+O Aplicativo foi desenvolvido para dispositivos Android e iOS usando o frameworkFlutter, e foi postado nas lojas  de  aplicativos  app  store e  play  store.  Ambas as  lojas  já aprovaram  o  aplicativo,  e  o  mesmo  está  disponível  para downloads.
+(quantos downloads)
+serrem -erro digitação
+trabalhos futuros:
+INTEGRACAO COM IOT
